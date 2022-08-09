@@ -35,7 +35,7 @@ const authors = [
     imageUrl:'images/authors/stephenking.jpg',
     imageSource:'Wikimedia Commons',
     imageAttribution:'Pinguino',
-    books:['The Shining','IT']
+    books:['The Shining','It']
   }, 
   {
     name:'Charles Dickens',
